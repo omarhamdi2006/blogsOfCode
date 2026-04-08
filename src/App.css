@@ -2,10 +2,16 @@
 
 @theme{
     --color-main-500: #08CB00;
+
     
 }
 
 .bigFont{
+    font-family: monospace;
+    font-weight: normal;
+
+}
+.bigFontBold{
     font-family: monospace;
     font-weight: bold;
 
